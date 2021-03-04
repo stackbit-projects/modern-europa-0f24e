@@ -7,8 +7,11 @@ sections:
     image_alt: App preview
     title: A  Wema  Headline
     content: >
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. That's why I everyone should try it.
+      Everyone should try it!!!
+
+
+      This is the perfect theme for developers, designers and entrepreneurs who
+      need a sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: /features
