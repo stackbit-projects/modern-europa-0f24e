@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/4.jpg
     image_alt: App preview
-    title: This Is A wem
+    title: 'This Is A wema '
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
